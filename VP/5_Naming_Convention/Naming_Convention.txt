@@ -1,0 +1,22 @@
+using System;
+
+namespace VariableScopeDemo
+{
+    class Program
+    {
+        // Private static field with underscore prefix
+        private static int _globalCounter = 10;
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Global Counter (Before): " + _globalCounter);
+            int localCounter = 5; // Local variable (correctly camelCase)
+
+            Console.WriteLine("Local Counter: " + localCounter);
+            _globalCounter += localCounter;
+
+            Console.WriteLine("Global Counter (After): " + _globalCounter);
+            Console.ReadLine();
+        }
+    }
+}
