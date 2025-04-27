@@ -1,4 +1,4 @@
-#C# Basics Repository 🖥️
+# C# Basics Repository 🖥️
 
 This repository features fundamental C# programs, making it a great starting point for anyone new to C#. Begin your coding journey with easy-to-understand concepts and step-by-step examples designed to build your confidence in programming.
 
