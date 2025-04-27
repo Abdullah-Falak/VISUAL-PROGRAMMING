@@ -8,5 +8,3 @@ This repository features fundamental C# programs, making it a great starting poi
 Ideal for beginners, this repository serves as a solid foundation for exploring the world of C#. Let's get started and code away! 🚀
 
 Let me know if you want to highlight any specific programs or features! 🌟
-
-Some Class Projects
