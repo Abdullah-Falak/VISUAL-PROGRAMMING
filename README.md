@@ -1,5 +1,6 @@
 #C# Basics Repository 🖥️
 This repository features fundamental C# programs, making it a great starting point for anyone new to C#. Begin your coding journey with easy-to-understand concepts and step-by-step examples designed to build your confidence in programming.
+
 📌 What You'll Learn:
 - C# syntax and structure
 - Core programming concepts like variables, loops, and conditionals
